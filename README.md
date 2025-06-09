@@ -107,7 +107,7 @@ Curated, privacy-focused Windows ISO images stripped of unnecessary bloatware an
 
 | Platform   | Link                                         |
 |------------|----------------------------------------------|
-| Twitter    | [@habibtahfiz](https://twitter.com/habibtahfiz)        |
+| Twitter    | [@habibtahfiz](https://twitter.com/habibtahfeez)        |
 | Instagram  | [miqimyeah](https://instagram.com/miqimyeah)           |
 | Facebook   | [Tahfiz Habib](https://facebook.com/tahfiz.habib)       |
 

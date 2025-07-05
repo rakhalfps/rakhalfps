@@ -1,14 +1,18 @@
-<p align="center">
-  <img src="https://media.tenor.com/TwIB_JbZ6WcAAAAd/cat-vibe.gif" width="150" alt="Profile GIF" />
-</p>
-
-<h1 align="center">Hi, I'm <strong>Miqim aka Rakhal</strong> 👋</h1>
-
-<p align="center">
-  A self-taught developer from <strong>Dhaka, Bangladesh</strong>.<br />
-  Passionate about building tools, exploring systems, and mastering full-stack development.<br />
-  Open-source enthusiast and lifelong learner.
-</p>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h1>Hi, I'm <strong>Miqim aka Rakhal</strong> 👋</h1>
+      <p>
+        A self-taught developer from <strong>Dhaka, Bangladesh</strong>.<br />
+        Passionate about building tools, exploring systems, and mastering full-stack development.<br />
+        Open-source enthusiast and lifelong learner.
+      </p>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/rakhalfps.png" width="200" height="200" style="border-radius: 50%;" alt="Rakhal Profile Picture" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,7 +68,7 @@
 
 ## 🔥 Highlighted Repo
 
-### <a href="https://github.com/rakhalfps/emphase-rice">Emphase: Translucent Windows 11 Rice Setup</a>
+### <a href="https://github.com/rakhalfps/emphase-rice">🪟 Emphase: Translucent Windows 11 Rice Setup</a>
 
 A complete, sleek Windows 11 setup featuring authentic Mica effects, transparent terminals, custom cursors, and a WinUI-inspired Firefox theme.  
 Includes easy installation steps and all customization tools you need to transform your desktop.
@@ -80,9 +84,9 @@ Kubernetes | Rust | TypeScript | Frontend Performance & Accessibility | Backend 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakhalfps&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhalfps&layout=compact&theme=radical&hide_border=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhalfps&theme=radical&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakhalfps&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhalfps&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhalfps&theme=radical&hide_border=true" height="160" />
 </div>
 
 ---
@@ -90,19 +94,19 @@ Kubernetes | Rust | TypeScript | Frontend Performance & Accessibility | Backend 
 ## 🌐 Connect • 💖 Support • 📈 Visitors
 
 <p align="center">
-  <a href="https://github.com/rakhalfps" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/rakhalfps" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/habibtahfeez" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/habibtahfeez" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/miqimyeah" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/miqimyeah" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/tahfiz.habib" target="_blank" rel="noopener noreferrer">
+  <a href="https://facebook.com/tahfiz.habib" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/sponsors/rakhalfps" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/sponsors/rakhalfps" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-black?style=flat&logo=github" />
   </a>
   <a href="#">
